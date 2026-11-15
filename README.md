@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="./assets/koptiva-logo.png" alt="Koptiva logo" width="112">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/koptiva-logo-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/koptiva-logo-light.png">
+    <img src="./assets/koptiva-logo-light.png" alt="Koptiva logo" width="112">
+  </picture>
 
   <h1>Koptiva</h1>
 
@@ -38,4 +42,4 @@ Koptiva checks this repository for the latest release and downloads the installe
 
 ## Source archive contents
 
-GitHub’s automatic source archives contain only this README and the Koptiva logo. They do not contain application source code. Published releases contain the compiled installer and required third-party notices.
+GitHub’s automatic source archives contain only this README and the dark and light Koptiva logo variants. They do not contain application source code. Published releases contain the compiled installer and required third-party notices.
