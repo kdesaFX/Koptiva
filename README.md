@@ -34,7 +34,7 @@
 
 ## Install
 
-Download `Koptiva.Installer.exe` from the [latest release](https://github.com/kdesaFX/Koptiva/releases/latest), run it, and choose a regular or portable installation. A regular installation can add Start menu and desktop shortcuts. Preview installers are unsigned, and Windows may show a User Account Control prompt because the installer can request administrator access.
+Download `Koptiva.Installer.exe` from the [latest release](https://github.com/kdesaFX/Koptiva/releases/latest), run it, and choose a regular or portable installation. A regular installation can add Start menu and desktop shortcuts. Preview installers are unsigned, and Windows shows a User Account Control prompt when the app launches because this build requests administrator access. The installer may also request administrator access for a regular installation.
 
 ## Automatic updates
 
